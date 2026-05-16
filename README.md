@@ -1,2 +1,2 @@
-# new phtography page 
-mini project of css
+# New phtography page 
+mini project of css 
